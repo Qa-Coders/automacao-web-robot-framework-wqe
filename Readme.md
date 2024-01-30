@@ -13,10 +13,10 @@ Projeto de automação web do workshop de Quality Engineer - QE
 - Robot - https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Click%20Button
 
 ### Extensions VSCODE
--Robot Framework Language Server
--Robot Framework Support
--Robot Framework Formatter
--Vscode Ico
+- Robot Framework Language Server
+- Robot Framework Support
+- Robot Framework Formatter
+- Vscode Ico
 
 ## Instalação:
 
