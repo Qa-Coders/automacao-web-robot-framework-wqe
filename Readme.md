@@ -8,3 +8,18 @@ Projeto de automação web do workshop de Quality Engineer - QE
 ### Link de downloads
 - Python - https://www.python.org/
 - VSCODE - https://code.visualstudio.com/download
+
+### Documentação
+- Robot - https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Click%20Button
+
+### Extensions VSCODE
+-Robot Framework Language Server
+-Robot Framework Support
+-Robot Framework Formatter
+-Vscode Ico
+
+## Instalação:
+
+``` bash
+    pip install robotframework
+```
