@@ -1,0 +1,7 @@
+environments:
+  default:
+    sever: https://automacao.qacoders-academy.com.br
+    endpoin: /login
+  homolog:
+    sever: https://automacao.qacoders-academy.com.br
+    endpoin: /login

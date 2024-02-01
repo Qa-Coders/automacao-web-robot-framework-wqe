@@ -1,0 +1,16 @@
+login:
+  username:
+    default:
+      tipo: input
+      tipo_selector: css
+      seletor: email
+  password:
+    default:
+      tipo: input
+      tipo_selector: css
+      seletor: password
+  button:
+    default:
+      tipo: button
+      tipo_selector: css
+      seletor: login

@@ -1,0 +1,7 @@
+login:
+  default:
+    username: "sysadmin@qacoders.com"
+    password: "1234@Test"
+  homolog:
+    username: "sysadmin@qacoders.com"
+    password: "1234@Test"
