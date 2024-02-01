@@ -25,6 +25,6 @@ jobs:
 
       - name: Run Robot Framework Tests
         run: |
-          robot .results
+          python run_tests.py
         env:
           BROWSER: chrome  # ajuste para o navegador desejado
