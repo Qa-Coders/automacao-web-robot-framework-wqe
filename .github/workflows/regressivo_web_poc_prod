@@ -1,4 +1,4 @@
-name: regressivo_web_poc
+name: regressivo_web_poc_prod
 
 on:
   push:
